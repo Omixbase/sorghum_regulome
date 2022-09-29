@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://omixbase.github.io/sorghum_regulome/sitemap.xml
+Disallow: /
